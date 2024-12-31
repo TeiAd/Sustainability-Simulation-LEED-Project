@@ -20,6 +20,7 @@ MPRs and Prerequisites: Detailed checklists.
 You can view/download the workbook in the /workbook folder [LEED Simulation project.xlsx](https://github.com/user-attachments/files/18268714/LEED.Simulation.project.xlsx)
 
 # Python code for Ganttchart
+[Gantt Chart code.txt](https://github.com/user-attachments/files/18283114/Gantt.Chart.code.txt)
 # Re-importing necessary libraries and re-creating the Gantt chart due to session reset
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
@@ -64,8 +65,6 @@ plt.tight_layout()
 
 # Show the chart
 plt.show()
-<img width="569" alt="image" src="https://github.com/user-attachments/assets/ba21a463-9862-40a0-a78f-6ab8727f0d98" />
-
 
 # Why This Project Matters
 This project showcases my ability to:
