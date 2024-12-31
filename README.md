@@ -16,11 +16,16 @@ Minimum Program Requirements (MPRs): Guidelines for LEED project eligibility.
 Prerequisites: Baseline requirements for LEED certification compliance.
 
 # Workbook
-The Excel workbook contains:
+This Excel workbook contains:
+
 Stakeholders: Register with roles and responsibilities.
+
 Timeline: Gantt chart of implementation phases.
+
 Benchmarks: Sustainability performance metrics.
+
 MPRs and Prerequisites: Detailed checklists.
+
 You can view/download the workbook in the /workbook folder [LEED Simulation project.xlsx](https://github.com/user-attachments/files/18268714/LEED.Simulation.project.xlsx)
 
 # Python code for Ganttchart
