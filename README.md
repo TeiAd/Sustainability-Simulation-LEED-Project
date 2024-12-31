@@ -18,7 +18,7 @@ Prerequisites: Baseline requirements for LEED certification compliance.
 # Workbook
 This Excel workbook contains:
 
-Stakeholders: Register with roles and responsibilities.
+Stakeholder Register with roles and responsibilities.
 
 Timeline: Gantt chart of implementation phases.
 
