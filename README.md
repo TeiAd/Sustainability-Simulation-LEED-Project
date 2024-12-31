@@ -21,12 +21,13 @@ You can view/download the workbook in the /workbook folder [LEED Simulation proj
 
 # Python code for Ganttchart
 [Gantt Chart code.txt](https://github.com/user-attachments/files/18283114/Gantt.Chart.code.txt)
-# Re-importing necessary libraries and re-creating the Gantt chart due to session reset
+
+Re-importing necessary libraries and re-creating the Gantt chart due to session reset
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 from datetime import datetime, timedelta
 
-# Define the project phases, tasks, start dates, and durations
+Define the project phases, tasks, start dates, and durations
 tasks = [
     ("Stakeholder Identification & Engagement", "2025-01-01", 14),
     ("Feasibility Study", "2025-01-15", 21),
@@ -45,15 +46,15 @@ tasks = [
     ("Stakeholder Training on Operations", "2026-05-20", 14)
 ]
 
-# Convert task start dates to datetime objects and calculate end dates
+Convert task start dates to datetime objects and calculate end dates
 tasks_with_dates = [(task, datetime.strptime(start, "%Y-%m-%d"), datetime.strptime(start, "%Y-%m-%d") + timedelta(days=duration)) for task, start, duration in tasks]
 
-# Plotting the Gantt chart
+Plotting the Gantt chart
 fig, ax = plt.subplots(figsize=(12, 8))
 for i, (task, start, end) in enumerate(tasks_with_dates):
     ax.barh(i, (end - start).days, left=start, color="skyblue", edgecolor="black")
 
-# Formatting the chart
+Formatting the chart
 ax.set_yticks(range(len(tasks_with_dates)))
 ax.set_yticklabels([task for task, _, _ in tasks_with_dates])
 ax.xaxis.set_major_locator(mdates.MonthLocator())
@@ -63,7 +64,7 @@ ax.set_title("Gantt Chart: Sustainable Facility Implementation")
 plt.xticks(rotation=45)
 plt.tight_layout()
 
-# Show the chart
+Show the chart
 plt.show()
 
 # Why This Project Matters
