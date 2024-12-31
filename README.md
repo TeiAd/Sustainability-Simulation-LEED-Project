@@ -6,9 +6,17 @@ This project simulates the preparation process for certifying a sustainable faci
 
 # Key Deliverables
 Stakeholder Register: Identified stakeholders crucial for LEED certification and their roles/responsibilities.
+
+
 Timeline (Gantt Chart): A detailed implementation schedule for achieving project milestones.
+
+
 Benchmarks: Critical success metrics for energy efficiency, water management, and sustainable materials.
+
+
 Minimum Program Requirements (MPRs): Guidelines for LEED project eligibility.
+
+
 Prerequisites: Baseline requirements for LEED certification compliance.
 
 # Workbook
