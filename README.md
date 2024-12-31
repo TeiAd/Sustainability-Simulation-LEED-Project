@@ -20,8 +20,7 @@ MPRs and Prerequisites: Detailed checklists.
 You can view/download the workbook in the /workbook folder [LEED Simulation project.xlsx](https://github.com/user-attachments/files/18268714/LEED.Simulation.project.xlsx)
 
 # Python code for Ganttchart
-This jupyter notebook contains the python code for the Ganttchart 
-https://github.com/TeiAd/Sustainability-Simulation-LEED-Project/blob/main/LEED%20Gantt.ipynb
+This [jupyter notebook](https://github.com/TeiAd/Sustainability-Simulation-LEED-Project/blob/main/LEED%20Gantt.ipynb)  contains the python code for the Ganttchart 
 
 # Why This Project Matters
 This project showcases my ability to:
