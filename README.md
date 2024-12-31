@@ -66,6 +66,7 @@ plt.tight_layout()
 
 Show the chart
 plt.show()
+<img width="564" alt="image" src="https://github.com/user-attachments/assets/1fa69214-0925-4635-a7eb-daf83d42e635" />
 
 # Why This Project Matters
 This project showcases my ability to:
