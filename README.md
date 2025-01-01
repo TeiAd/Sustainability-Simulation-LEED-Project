@@ -39,6 +39,6 @@ Work with frameworks like LEED, WELL, and Fitwel.
 Manage projects effectively using tools such as Gantt charts and stakeholder analysis.
 
 Portfolio Site
-For more details, visit the portfolio site: [Link to Google Portfolio Site] (Coming Soon).
+For more details, visit the portfolio site: [Link to Google Portfolio Site] (https://sites.google.com/view/academic-research-projects/leed-project).
 
 
